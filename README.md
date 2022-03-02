@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vsnupoudel/vsnupoudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Engineering/Science/ML Pipelines in the cloud. Working on an Android application for tflite audio model.
@@ -11,5 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: replytobishnu@gmail.com / replytobishnu@outlook.com
 - ⚡ Fun fact: I respect and like working with doers over talkers, honest-hardworking people over manipulators. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vsnupoudel)](https://github.com/vsnupoudel/github-readme-stats)
--->
+[![Bishnu's github stats](https://github-readme-stats.vercel.app/api?username=vsnupoudel)](https://github.com/vsnupoudel/github-readme-stats)
