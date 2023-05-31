@@ -5,4 +5,3 @@
 - 📫 How to reach me: replytobishnu@gmail.com / replytobishnu@outlook.com
 - ⚡ Fun fact: I respect and like working with doers over talkers, honest-hardworking people over manipulators. 
 
-[![Bishnu's github stats](https://github-readme-stats.vercel.app/api?username=vsnupoudel)](https://github.com/vsnupoudel/github-readme-stats)
